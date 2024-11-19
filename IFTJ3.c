@@ -1,3 +1,4 @@
+// Write a program to print a number of days in a month //
 #include <stdio.h>
 
 int main() {
